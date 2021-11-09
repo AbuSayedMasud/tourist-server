@@ -1,0 +1,14 @@
+.post-area
+{
+    background-color: rgba(228, 218, 218, 0.404);
+}
+.card-footer
+{
+    border-top: none;
+}
+.post-text a
+{
+    text-decoration: none;
+    font-size: 14px;
+    
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "key": 1,
+        "name": "Bandarban Tour: The Adventure in Hill Tract",
+        "img": "https://i.ibb.co/7N2WDPz/amiakhum.jpg",
+        "description": "Bandarban Hill District is the most remote and least populated district in Bangladesh. The lure of the tallest peaks of Bangladesh, treks through virgin forests and chance to meet more than 15 tribes of the region up close is growing both among Bangladeshis and tourists from other countries. Since the insurgency ceased in the Chittagong Hill Tracts",
+        "pakeage": "2 days & 3 nights",
+        "price": "$3500"
+    },
+    {
+        "key": 2,
+        "name": "Sylhet",
+        "img": " https://i.ibb.co/kHLsbS9/download-1.jpg",
+        "description": "Sylhet, originally Srihatta, city, northeastern Bangladesh. It lies along the right bank of the Surma River.The most important town in the Surma River valley, it is connected by road and rail with Comilla, Chhatak, and Habiganj, by road with the states of Assam and Meghalaya (both in India), and by air with Dhaka and several international destinations.",
+        "pakeage": "2 days & 3 nights",
+        "price": "$4000"
+    },
+    {
+        "key": 3,
+        "name": "Kuakata: The Ocean Paradise",
+        "img": "https://i.ibb.co/NtxGCJn/download-2.jpg",
+        "description": "Kuakata is located 220 KM from Dhaka by road and by river it is 308 KM upto Amtoli and from there another 50 KM by road to Kuakata.We took river way to have different taste after long time . We boarded steamer at 0530 pm at Sdarghat . We werea gp of six families. It was actualy fifty years back when we needed to board launch at night and reach city in the morning . But this launch journey is amazing at sun set .",
+        "pakeage": "2 days & 3 nights",
+        "price": "$3700"
+    },
+    {
+        "key": 4,
+        "name": "Niko Trip",
+        "img": "https://i.ibb.co/M2rB3Hd/download-3.jpg",
+        "description": "Nikko is located in the northwestern part of Tochigi Prefecture, best known for its vast and rich nature and the many famous sightseeing spots, including historical shrines and temples. As it used to be the sacred land of mountain worship, many people visit Nikko for its distinctive mystical atmosphere.",
+        "pakeage": "2 days & 3 nights",
+        "price": "$3200"
+    },
+    {
+        "key": 5,
+        "name": "Rangamati",
+        "img": "https://i.ibb.co/F5J4n12/download.jpg",
+        "description": "Rangamati Hill District , is a district in south-eastern Bangladesh. It is a part of the Chittagong Division[4] and the town of Rangamati serves as the headquarters of the district. By area, Rangamati is the largest district of the country.",
+        "pakeage": "2 days & 3 nights",
+        "price": "$3800"
+    },
+    {
+        "key": 6,
+        "name": "Cox’s Bazar Tour: The Beach Holiday",
+        "img": "https://i.ibb.co/54CbhPN/longest-sea-beach-in.jpg",
+        "description": "Cox's Bazar is the prime beach and tourist town in Bangladesh, situated alongside the beach of the Bay of Bengal, beside the Indian ocean, having unbroken 120 Kilometer golden sand beach, reachable through motor transport alongside the wavy water . This town is situated in the Chittagong Division in south-eastern Bangladesh, beside 'Myanmar (Burma)'",
+        "pakeage": "2 days & 3 nights",
+        "price": "$4200"
+    }
+]
