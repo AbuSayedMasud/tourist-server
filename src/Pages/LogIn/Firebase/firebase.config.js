@@ -8,4 +8,13 @@ const firebaseConfig = {
   messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
   appId: process.env.REACT_APP_FIREBASE_APP_ID
 };
+// const firebaseConfig = {
+//   apiKey: "AIzaSyCMdQvhW5QQcbYYmVfDjUez1kU1e_tWpj8",
+//   authDomain: "travele-8e39e.firebaseapp.com",
+//   projectId: "travele-8e39e",
+//   storageBucket: "travele-8e39e.appspot.com",
+//   messagingSenderId: "716531898600",
+//   appId: "1:716531898600:web:59caa926e50d1591c0515d"
+// };
+
 export default firebaseConfig;
