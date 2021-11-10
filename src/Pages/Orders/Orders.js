@@ -10,7 +10,7 @@ const Orders = ({ order }) => {
     }
     console.log(state);
     const handleRemove = id => {
-        fetch(`http://localhost:5000/orders/${id}`, {
+        fetch(`https://desolate-mountain-62875.herokuapp.com/orders/${id}`, {
             method: 'DELETE',
         })
             .then(res => res.json())
@@ -25,7 +25,7 @@ const Orders = ({ order }) => {
         console.log(id);
     }
     const handleUpdate = id => {
-        fetch(`http://localhost:5000/orders/${id}`, {
+        fetch(`https://desolate-mountain-62875.herokuapp.com/orders/${id}`, {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'

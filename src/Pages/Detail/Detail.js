@@ -7,7 +7,7 @@ const Detail = () => {
     const { id } = useParams();
     const [service, setService] = useState({});
     useEffect(() => {
-        fetch(`http://localhost:5000/detail/${id}`)
+        fetch(`https://desolate-mountain-62875.herokuapp.com/detail/${id}`)
             .then(res => res.json())
             .then(data => setService(data))
     }, [])
@@ -17,7 +17,7 @@ const Detail = () => {
     const onSubmit = data => {
         console.log(data);
         data.status = "pending";
-        fetch('http://localhost:5000/orders', {
+        fetch('https://desolate-mountain-62875.herokuapp.com/orders', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

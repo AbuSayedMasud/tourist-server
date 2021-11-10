@@ -4,7 +4,7 @@ import Orders from '../Orders/Orders';
 const ManageOrder = () => {
     const [orders, setOrders] = useState([]);
     useEffect(() => {
-        fetch('http://localhost:5000/orders')
+        fetch('https://desolate-mountain-62875.herokuapp.com/orders')
             .then(res => res.json())
             .then(data => setOrders(data))
     }, [])

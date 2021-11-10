@@ -6,7 +6,7 @@ const AddService = () => {
     const { register, handleSubmit, reset } = useForm();
     const onSubmit = data => {
         console.log(data);
-        axios.post('http://localhost:5000/products', data)
+        axios.post('https://desolate-mountain-62875.herokuapp.com/products', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('added successfully');
@@ -29,7 +29,7 @@ const AddService = () => {
                                 <div className="mb-3">
                                     <input className="form-control"{...register("img")} placeholder="image" />
                                 </div>
-                                
+
                                 <div className="mb-3">
                                     <textarea className="form-control" {...register("description")} placeholder="description" />
                                 </div>

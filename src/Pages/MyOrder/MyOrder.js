@@ -9,7 +9,7 @@ const MyOrder = () => {
     const [state, setState] = useState("");
 
     useEffect(() => {
-        const uri = `http://localhost:5000/orders/${email}`;
+        const uri = `https://desolate-mountain-62875.herokuapp.com/orders/${email}`;
         console.log(uri);
         fetch(uri)
             .then(res => res.json())
